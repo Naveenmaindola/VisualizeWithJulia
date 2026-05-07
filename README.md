@@ -12,3 +12,5 @@ already have. Use:
 
 using Pkg;
 Pkg.add("Name") # Pkg.add("LaTeXStrings") for example
+
+Also, sprite.zip file contains some HD sample sprites prepared in keynote which you can directly in the code. You can use your own sprites ofcourse. But this code works with NxN size (1500x1500 size sprites). Minor tweaking will require while the attractor rotates to adjust a MxN size sprite. 
